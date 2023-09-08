@@ -33,14 +33,13 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-   - [Future](#Enhancements)
+    - [Future Enhancements](#future-enhancements)
 - [File Structure](#file-structure)
 - [Requirements](#requirements)
 - [Usage Examples](#usage-examples)
    - [Setup and Installation Instructions](#setup-and-installation-instructions)
 - [Troubleshooting Tips](#troubleshooting-tips)
 - [Contribution Guidelines](#contribution-guidelines)
-
 
 
 ## Project Overview
