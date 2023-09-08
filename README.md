@@ -33,7 +33,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-   - [Future](#Enhancement)
+   - [Future](#Enhancements)
 - [File Structure](#file-structure)
 - [Requirements](#requirements)
 - [Usage Examples](#usage-examples)
@@ -56,7 +56,7 @@
 - 🛠 **Error Handling**: Graceful error handling with user-friendly notifications.
 - 🧪 **Mock Testing**: Built-in mock functions and tests to ensure the bot's behavior is as expected.
 
-## Future Enhancements:
+## Future Enhancements
 
 - 💬 **Natural Language Processing**: Understand and process commands in natural language.
 - 🌐 **Integration with Other Platforms**: Connect with platforms like Slack, Microsoft Teams, etc.
