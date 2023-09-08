@@ -28,6 +28,19 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
+# 🌟 DiscordCommander: An Advanced Discord Command Bot 🌟
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [File Structure](#file-structure)
+- [Requirements](#requirements)
+- [Usage Examples](#usage-examples)
+- [Setup and Installation Instructions](#setup-and-installation-instructions)
+- [Troubleshooting Tips](#troubleshooting-tips)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Tags](#tags)
+
 
 ## Project Overview
 
