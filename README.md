@@ -27,3 +27,61 @@
   <br />
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
+
+
+## Project Overview
+
+**DiscordCommander** is a Python-based bot designed for Discord servers. It automates the task of reading messages, processing commands, and posting responses. Built with scalability and performance in mind, it's the perfect tool for enhancing user interaction on any Discord server.
+
+## Features
+
+- 📩 **Automatic Message Reading**: Listens to every message in the specified channel and processes commands.
+- ⚙️ **Command Processing**: Uses a regex pattern to identify and process commands from messages.
+- 🚀 **Asynchronous Execution**: Capable of handling multiple commands simultaneously without blocking.
+- 📜 **Command History**: Retrieve and display a history of executed commands, similar to Slack's `/` command.
+- 🛠 **Error Handling**: Graceful error handling with user-friendly notifications.
+- 🧪 **Mock Testing**: Built-in mock functions and tests to ensure the bot's behavior is as expected.
+
+### Future Enhancements:
+
+- 💬 **Natural Language Processing**: Understand and process commands in natural language.
+- 🌐 **Integration with Other Platforms**: Connect with platforms like Slack, Microsoft Teams, etc.
+- 📊 **Command Analytics**: Provide insights on most used commands, peak usage times, etc.
+- 🤖 **AI-based Responses**: Generate AI-powered responses for specific commands.
+
+
+## Requirements
+
+- Python 3.8+
+- [discord.py](https://pypi.org/project/discord.py/)
+- Linux or Windows operating system
+
+
+## Usage Examples
+
+- **Command Execution**: `!weather today` - The bot would process and return today's weather.
+- **Command History**: Typing `/history` would display the recent commands executed in the channel.
+
+
+## Setup and Installation Instructions
+
+1. Clone the repository: `git clone https://github.com/yourusername/DiscordCommander.git`
+2. Navigate to the directory: `cd DiscordCommander`
+3. Install the required libraries: `pip install -r requirements.txt`
+4. Modify `config/settings.py` with your Discord API Key and other settings.
+5. Run the bot: `python main.py`
+
+
+## Troubleshooting Tips
+
+- **Bot Not Responding**: Ensure that the bot has the necessary permissions in the Discord server.
+- **Command Not Recognized**: Verify the regex pattern in `config/settings.py`.
+- **Dependencies Issue**: Reinstall the requirements using `pip install -r requirements.txt`.
+
+## Contribution Guidelines
+
+1. **Fork** the repository on GitHub.
+2. **Clone** the forked repo to your machine.
+3. Make your changes and **commit** them.
+4. **Push** the changes to your fork on GitHub.
+5. Submit a **pull request** to the main repository.
